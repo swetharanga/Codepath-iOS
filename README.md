@@ -24,6 +24,7 @@ The following **optional** features are implemented:
 The following **additional** features are implemented:
 
 - [X ] List anything else that you can get done to improve the app functionality!
+
 • Added the Settings screen  - BONUS 
 • Changed the background color of the app 
 
@@ -42,7 +43,7 @@ Describe any challenges encountered while building the app.
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2022] [SWETHA RANGA]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
