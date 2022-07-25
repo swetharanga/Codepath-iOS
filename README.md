@@ -1,4 +1,4 @@
-# Codepath-IOS
+# Codepath-iOS
 # Pre-work - *TIP CALC*
 
 **TIP CALC** is a tip calculator application for iOS.
