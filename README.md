@@ -35,7 +35,8 @@ Here's a walkthrough of implemented user stories:
 
 <img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
-GIF created with [LiceCap](http://www.cockos.com/licecap/).
+Link for the GIF of my APP
+https://github.com/swetharanga/Codepath-IOS/blob/main/IOS.gif
 
 
 ## Notes
